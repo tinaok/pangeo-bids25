@@ -1,4 +1,4 @@
-name: igarss2024
+name: bids25
 channels:
   - conda-forge
   - defaults
