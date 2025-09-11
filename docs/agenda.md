@@ -8,24 +8,24 @@ Please continue [this website](https://pangeo-data.github.io/pangeo-bids25/agend
 
 | Time   | Activity                                      |
 | ------ | --------------------------------------------- |
-| 12:30  | 👋 Welcome:  Introduction and Motivation (15 minutes)       |
-| 12:50  | Accessing Pangeo-EOSC Infrastructure (10 minutes) |
-| 13:00  | Introduction to Xarray and Interactive Visualization  (10 minutes) |
-| 13:20  | Leverage Pangeo for AI Workflows (45 minutes)  |
-| 13:45  | ☕️ Break (30 minutes)                          |
+| 09:00  | 👋 Welcome:  Introduction and Motivation (15 minutes)       |
+| 09:15  | Accessing Pangeo-EOSC Infrastructure (10 minutes) |
+| 09:25  | Introduction to Xarray and Interactive Visualization  (10 minutes) |
+| 09:35  | Leverage Pangeo for AI Workflows (45 minutes)  |
+| 10:20  | ☕️ Break (30 minutes)                          |
 
 
 
 
-## Part 2: EO4EU Tutorial IGARSS 2024
+## Part 2: EO4EU Tutorial BiDS 2025
 
 Please refer to [this website](https://albughdadim.github.io/igarss2024-eo4eu/eo4eu_intro.html) for this part of the tutorial.
 
 | Time   | Activity                                      |
 | ------ | --------------------------------------------- |
-| 14:15  | 👋 Introduction and Motivation (5 minutes)     |
-| 14:20  | Getting Started with EO4EU (5 minutes)        |
-| 14:25  | Examples of Processing APIs in EO4EU (15 minutes) |
-| 14:40  | Practical Use Cases (40 minutes)              |
-| 15:20  | Q&A Session and Feedback (10 minutes)         |
-| 15:30  | ☕️ Break                                       |
+| 10:50  | 👋 Introduction and Motivation (5 minutes)     |
+| 10:55  | Getting Started with EO4EU (5 minutes)        |
+| 11:00  | Examples of Processing APIs in EO4EU (15 minutes) |
+| 11:25  | Practical Use Cases (50 minutes)              |
+| 12:15  | Q&A Session and Feedback (15 minutes)         |
+| 12:30  | ☕️ End of the workshop                        |
