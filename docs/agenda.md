@@ -4,7 +4,7 @@ Below is the agenda for each workshop session.
 
 ## Part 1: Navigate the Pangeo Ecosystem for Scalable Earth Science AI Workflows
 
-Please continue [this website](https://pangeo-data.github.io/pangeo-igarss2024/agenda.html) for this part of the tutorial.
+Please continue [this website](https://pangeo-data.github.io/pangeo-bids25/agenda.html) for this part of the tutorial.
 
 | Time   | Activity                                      |
 | ------ | --------------------------------------------- |
