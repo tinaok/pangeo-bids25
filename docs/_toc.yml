@@ -14,11 +14,14 @@ parts:
   - caption: Landslide detection
     chapters:
       - file: landslide_xbatcher
+  - caption: EO4EU tutorial
+    chapters:
+      - file: eo4eu_bids25
   - caption: Beyond the tutorial
     chapters:
-    - file: afterword/resources
-      title: Resources
-    - file: afterword/pythia
-      title: Project Pythia
-    - file: afterword/edsbook
-      title: Environmental Data Science Book
+      - file: afterword/resources
+        title: Resources
+      - file: afterword/pythia
+        title: Project Pythia
+      - file: afterword/edsbook
+        title: Environmental Data Science Book
