@@ -44,7 +44,7 @@ html_theme_options = {
         "colab_url": "",
     },
     "path_to_docs": "docs",
-    "repository_url": "https://github.com/pangeo-data/pangeo-igarss2024",
+    "repository_url": "https://github.com/pangeo-data/pangeo-bids25",
     "repository_branch": "main",
     "extra_footer": "",
     "home_page_in_toc": True,

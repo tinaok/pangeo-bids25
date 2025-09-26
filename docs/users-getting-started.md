@@ -51,12 +51,12 @@ In addition to the MinIO console, the API end point is `https://pangeo-eosc-mini
 
 ## Clone the github repository
 
-To get a local copy of the `pangeo-igarss2024` repository, you can clone it on your local computer and/or server. Open a terminal in the JupyterHub and clone the repository with the following command:
+To get a local copy of the `pangeo-bids25` repository, you can clone it on your local computer and/or server. Open a terminal in the JupyterHub and clone the repository with the following command:
 
 ```
-git clone https://github.com/pangeo-data/pangeo-igarss2024.git
+git clone https://github.com/pangeo-data/pangeo-bids25.git
 ```
 
 ## Support
 
-If you need support, please open an [issue](https://github.com/pangeo-data/pangeo-igarss2024/issues).
+If you need support, please open an [issue](https://github.com/pangeo-data/pangeo-bids25/issues).
