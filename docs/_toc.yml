@@ -11,6 +11,9 @@ parts:
   - caption: Gap filling
     chapters:
       - file: SST_AI
+  - caption: Surfing Waves with Sentinel-2 and HEALPix
+    chapters:
+      - file: Xbatcher_Sentinel2_wave
   - caption: Landslide detection
     chapters:
       - file: landslide_xbatcher
