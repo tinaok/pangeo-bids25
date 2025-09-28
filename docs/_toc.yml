@@ -8,15 +8,12 @@ parts:
   - caption: Pangeo and EOSC in a nutshell
     chapters:
       - file: pangeo
-  - caption: Gap filling
+  - caption: Python for EO
     chapters:
-      - file: SST_AI
+      - file: pangeo-intro
   - caption: Surfing Waves with Sentinel-2 and HEALPix
     chapters:
       - file: Xbatcher_Sentinel2_wave
-  - caption: Landslide detection
-    chapters:
-      - file: landslide_xbatcher
   - caption: EO4EU tutorial
     chapters:
       - file: eo4eu_bids25
