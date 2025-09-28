@@ -11,6 +11,9 @@ parts:
   - caption: Python for EO
     chapters:
       - file: pangeo-intro
+  - caption: Introduction to HEALPix and Dask
+    chapters:
+      - file: SST_AI
   - caption: Surfing Waves with Sentinel-2 and HEALPix
     chapters:
       - file: Xbatcher_Sentinel2_wave
